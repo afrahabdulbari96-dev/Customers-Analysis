@@ -33,9 +33,11 @@ Then Canada and Australia
 This helps identify high‑priority markets and areas for strategic focus.
 
 🎓 Education Level
+
 Most customers hold higher education degrees (Graduation, PhD, Master), indicating a financially capable and value‑driven customer base.
 
 👥 Marital Status & Age
+
 Married: 50%
 
 Single: 50%
@@ -45,6 +47,7 @@ Average Age: 56 years
 This represents a mature customer segment with higher loyalty and stronger purchasing power.
 
 📩 Complaints
+
 The number of complaints is very low, which may indicate:
 
 High customer satisfaction
@@ -53,6 +56,7 @@ or
 Under‑reporting of complaints (data quality issue)
 
 💡 Insights
+
 Income is significantly high compared to spending in the last two years → strong opportunity for Upselling & Cross‑selling.
 
 Spain contributes nearly half of the total income → its success factors should be analyzed and replicated in other markets.
@@ -64,6 +68,7 @@ Low complaints may indicate satisfaction but should be validated for data accura
 The older age group may explain lower digital engagement despite high income.
 
 🚀 Recommendations
+
 1) Increase Customer Spending Through Targeted Campaigns
 Since income is high but spending is low:
 
