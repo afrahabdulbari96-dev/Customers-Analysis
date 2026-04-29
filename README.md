@@ -8,6 +8,8 @@ This project provides a comprehensive analysis of customer data to understand th
 The dashboard was built using Power BI with a clean and professional visual design that supports fast and informed decision‑making.
 
 📌 Key Performance Indicators (KPIs)
+
+
 Total Income: 116.79M
 
 Total Complaints: 665
@@ -19,6 +21,7 @@ Web Visits: 12K
 These KPIs offer a quick overview of customer performance and behavior.
 
 📊 Income Distribution by Country
+
 The analysis shows that:
 
 Spain is the strongest market (56M)
