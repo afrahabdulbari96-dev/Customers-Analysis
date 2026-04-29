@@ -1,5 +1,8 @@
 Customer Demographics Analysis Dashboard
-Power BI • Data Cleaning •  KPI Analysis
+
+
+
+
 
 This project provides a comprehensive analysis of customer data to understand their demographic characteristics, purchasing behavior, and the countries and segments contributing most to total income.
 The dashboard was built using Power BI with a clean and professional visual design that supports fast and informed decision‑making.
